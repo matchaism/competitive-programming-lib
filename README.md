@@ -9,19 +9,19 @@ git submodule add github:tatyam-prime/SortedSet.git SortedSet
 
 add submodule from gist
 ```
-git submodule add gist:0e48d5c261e467d8ea942d508e38d8d4.git template
+git submodule add gist:0e48d5c261e467d8ea942d508e38d8d4.git sample
 ```
 
 update submodule
 ```
-git submodule update --remote template
+git submodule update --remote sample
 ``
 
 delete submodule
 ```
-git submodule deinit -f template
-git rm -f template
-rm -rf .git/modules/template
+git submodule deinit -f sample
+git rm -f sample
+rm -rf .git/modules/sample
 ````
 
 ## Reference
