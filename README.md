@@ -11,3 +11,6 @@ update submodule
 ```
 git submodule update --remote template
 ```
+
+## Reference
+ * [Github Gist を1個のレポジトリでまとめて管理する](https://qiita.com/YumaInaura/items/8088aae8df7ffac482b9}
