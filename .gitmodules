@@ -1,3 +1,6 @@
 [submodule "template"]
 	path = template
 	url = gist:0e48d5c261e467d8ea942d508e38d8d4.git
+[submodule "SortedSet"]
+	path = SortedSet
+	url = github:tatyam-prime/SortedSet.git
