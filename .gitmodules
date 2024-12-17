@@ -1,3 +1,3 @@
 [submodule "SortedSet"]
 	path = SortedSet
-	url = github:tatyam-prime/SortedSet.git
+	url = https://github.com/tatyam-prime/SortedSet.git
